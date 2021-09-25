@@ -1,0 +1,3 @@
+Zhenyi Chen
+A16604125
+Path of gitignore: /Users/zhenyichen/CSE110_CZY_project
