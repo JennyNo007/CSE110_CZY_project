@@ -1,3 +1,0 @@
-Zhenyi Chen
-A16604125
-Path of gitignore file: https://github.com/JennyNo007/CSE110_CZY_project/blob/main/.gitignore
