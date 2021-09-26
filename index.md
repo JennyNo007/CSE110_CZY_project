@@ -1,7 +1,5 @@
 # Hi! Welcome to Zhenyi Chen's profile!
-
 ![IMG_7710%202.JPG](IMG_7710%202.JPG)
-
 
 ## About me
   I am a **senior math-computer science student** and I *transferred* to UCSD last fall. I decided to double major in **Cognitive Science speacialized in _Neural Computation and Machine earning_** this summer so I have to extend my graduation year to 2023. I plan to have an internship or work for a while before applying for the graduat school with ***a clear researching field***. I am **curious about new things** and **passionate about exploring the unknown world!**
@@ -11,7 +9,7 @@
 - Watch movies
 - Play piano, guitar & ukulele
 - Have a fun time with my friends and cats
-- Exercise:
+- Exercises:
    1. Basketball
    2. Swimming
    3. Badmintain
@@ -19,8 +17,8 @@
    5. Table tennis
 ### I love to on the move, no matter in physical or in mind! 
 ***Here is my favourite motto***
-> You can either travel or read，but either your body or soul must be on the way." *(Roman Holiday)*
-## Goals in 2022
+> You can either travel or read，but either your body or soul must be on the way." *(from Roman Holiday)*
+## Exciting goals in 2022
 - [ ] Major-related internship
 - [ ] Scuba diving
 - [ ] Drop 15-lbs body weight
