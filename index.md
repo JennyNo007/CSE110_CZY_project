@@ -7,6 +7,7 @@
  I started to code using python in high school. I learnt C++ in college when I was a freshman and Java in sophomore. I tried to practive more in my spare time but it seems that taking classes is the most efficient way to practice coding. I know that I have to pratice more often but it is hard to keep up... :( ~~I am happy at least my work has tons of repay!~~
 ## Hobbies
 - Watch movies
+- Listen to music
 - Play piano, guitar & ukulele
 - Have a fun time with my friends and cats
 - Exercises:
