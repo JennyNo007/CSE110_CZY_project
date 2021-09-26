@@ -25,4 +25,4 @@
 - [x] >20 mins reading time every day
 - [ ] Fine PS and video-cutting skills
 ### Picture of my daily supporter:
-![IMG_3770 2.HEIC](https://github.com/JennyNo007/CSE110_CZY_project/blob/main/IMG_3770%202.HEIC))
+![IMG_3770_2_(1).jpg](https://github.com/JennyNo007/CSE110_CZY_project/blob/main/IMG_3770_2_(1).jpg)
