@@ -1,6 +1,6 @@
 # Hi! Welcome to Zhenyi Chen's profile!
 <p align="center">
-<img src="https://github.com/JennyNo007/CSE110_CZY_project/blob/main/IMG_7710%202.JPG" style="width=50% ; height=50%">
+<img src="https://github.com/JennyNo007/CSE110_CZY_project/blob/main/IMG_7710%202.JPG" width=50% height=50%>
 </p>
 
 ## About me
@@ -29,5 +29,5 @@
 - [ ] Fine PS and video-cutting skills
 ### Picture of my daily supporter:
 <p align="center">
-<img src="https://github.com/JennyNo007/CSE110_CZY_project/blob/main/IMG_3770_2_(1).jpg" style="width=50% ; height=50%">
+<img src="https://github.com/JennyNo007/CSE110_CZY_project/blob/main/IMG_3770_2_(1).jpg" width=50% height=50%>
 </p>
