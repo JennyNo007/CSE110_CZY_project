@@ -1,7 +1,7 @@
 # Hi! I am Zhenyi Chen.
-![IMG_7710 2.JPG](https://github.com/JennyNo007/CSE110_CZY_project/blob/main/IMG_7710%202.JPG)
+<img src="https://github.com/JennyNo007/CSE110_CZY_project/blob/main/IMG_7710%202.JPG" width=25% height=25%>
 ## About me
-  I am a **senior math-computer science student** and I *transferred* to UCSD last fall. I decided to double major in **Cognitive Science speacialized in _Neural Computation and Machine earning_** this summer so I have to extend my graduation year to 2023. I plan to have an internship or work for a while before applying for the graduat school with a clear researching field. I am **curious about new things** and **passionate about exploring the unknown world!**
+  I am a **senior math-computer science student** and I *transferred* to UCSD last fall. I decided to double major in **Cognitive Science speacialized in _Neural Computation and Machine earning_** this summer so I have to extend my graduation year to 2023. I plan to have an internship or work for a while before applying for the graduat school with ***a clear researching field***. I am **curious about new things** and **passionate about exploring the unknown world!**
 ## As a programmer
  I started to code using python in high school. I learnt C++ in college when I was a freshman and Java in sophomore. I tried to practive more in my spare time but it seems that taking classes is the most efficient way to practice coding. I know that I have to pratice more often but it is hard to keep up... :( ~~I am happy at least my work has tons of repay~~
 ## Hobbies
@@ -25,4 +25,4 @@
 - [x] >20 mins reading time every day
 - [ ] Fine PS and video-cutting skills
 ### Picture of my daily supporter:
-![IMG_3770_2_(1).jpg](https://github.com/JennyNo007/CSE110_CZY_project/blob/main/IMG_3770_2_(1).jpg)
+<img src="https://github.com/JennyNo007/CSE110_CZY_project/blob/main/IMG_3770_2_(1).jpg" width=25% height=25%>
