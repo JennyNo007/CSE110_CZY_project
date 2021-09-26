@@ -1,5 +1,5 @@
 # Hi! I am Zhenyi Chen.
-![IMG_7710 2.JPG](https://github.com/JennyNo007/CSE110_CZY_project/blob/main/IMG_7710%202.JPG){ width=50% }
+![IMG_7710 2.JPG, 50%](https://github.com/JennyNo007/CSE110_CZY_project/blob/main/IMG_7710%202.JPG)
 ## About me
   I am a **senior math-computer science student** and I *transferred* to UCSD last fall. I decided to double major in **Cognitive Science speacialized in _Neural Computation and Machine earning_** this summer so I have to extend my graduation year to 2023. I plan to have an internship or work for a while before applying for the graduat school with ***a clear researching field***. I am **curious about new things** and **passionate about exploring the unknown world!**
 ## As a programmer
@@ -25,4 +25,4 @@
 - [x] >20 mins reading time every day
 - [ ] Fine PS and video-cutting skills
 ### Picture of my daily supporter:
-![IMG_3770_2_(1).jpg](https://github.com/JennyNo007/CSE110_CZY_project/blob/main/IMG_3770_2_(1).jpg){ width=50% }
+![IMG_3770_2_(1).jpg, 50%](https://github.com/JennyNo007/CSE110_CZY_project/blob/main/IMG_3770_2_(1).jpg)
