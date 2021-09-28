@@ -2,6 +2,16 @@
 ## Hi! Welcome to Zhenyi Chen's profile!
 ![IMG_7710%202.JPG](IMG_7710%202.JPG)
 
+## Preview
+- [Introduction](#introduction)
+  - [Hi! Welcome to Zhenyi Chen's profile!](#hi-welcome-to-zhenyi-chens-profile)
+  - [Preview](#preview)
+  - [About me](#about-me)
+  - [As a programmer](#as-a-programmer)
+  - [Hobbies](#hobbies)
+    - [My favourite motto](#my-favourite-motto)
+  - [Exciting goals in 2022](#exciting-goals-in-2022)
+    - [Picture of my daily supporter:](#picture-of-my-daily-supporter)
 ## About me
   I am a **senior math-computer science student** and I *transferred* to UCSD last fall. I decided to double major in **Cognitive Science speacialized in _Neural Computation and Machine earning_** this summer so I have to extend my graduation year to 2023. I plan to have an internship or work for a while before applying for the graduat school with ***a clear researching field***. I am **curious about new things** and **passionate about exploring the unknown world!**
 
@@ -35,3 +45,5 @@
 
 ### Picture of my daily supporter:
 ![IMG_3770_2_(1).jpg](IMG_3770_2_(1).jpg)
+
+[Go back to the top](#introduction)
